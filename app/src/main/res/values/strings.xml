@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">assignment2</string>
+
+
+    <string name="permissions_denied">Permission denied</string>
+    <string name="action_settings">Setting</string>
+    <string name="action_grant">Permission granted</string>
+    <string name="todo">TODO</string>
+</resources>
